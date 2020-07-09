@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Vivaldo
+### I'm Vivaldo
 
-⚡ Fun fact:
+### ⚡ Fun fact:
 <ul>
   <li>I love Animes</li>
   <li>Love to cook</li>
