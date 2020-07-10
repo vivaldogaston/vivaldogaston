@@ -1,13 +1,15 @@
 ### Hi there 👋
 ### I'm Vivaldo
- 
-### ⚡ Fun fact:
-<ul>
-  <li>I love Animes</li>
-  <li>Love to cook</li>
-  <li>Love Football</li>
-</ul>
 
+- 📫 How to reach me:<br>
+ Facebook- https://facebook.com/vivaldo.gaston <br>
+ Instagram- @vigas__ <br>
+ Twitter- @vigas__
+ 
+ - ⚡ Fun fact:<br>
+  I love Animes<br>
+  Love to cook<br>
+  Love Football
 
 Fimba Code member - https://github.com/Fimba-Code - https://blog.fimbacode.org/
 <!--
