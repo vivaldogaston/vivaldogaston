@@ -1,12 +1,15 @@
 ### Hi there 👋
 ### I'm Vivaldo
-
+ 
 ### ⚡ Fun fact:
 <ul>
   <li>I love Animes</li>
   <li>Love to cook</li>
   <li>Love Football</li>
 </ul>
+
+
+Fimba Code member - https://github.com/Fimba-Code - https://blog.fimbacode.org/
 <!--
 **vivaldogaston/vivaldogaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
