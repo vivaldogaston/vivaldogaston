@@ -6,6 +6,7 @@
  Instagram- @vigas__ <br>
  Twitter- @vigas__
  
+ -🌱 I’m currently learning Reactjs/React Native <br>
  - ⚡ Fun fact:<br>
   I love Animes<br>
   Love to cook<br>
